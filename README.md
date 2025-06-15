@@ -16,7 +16,7 @@ To attain a position in a growth-oriented company where I can use my strong orga
 
 **Year**: 2012
 
-*Position*:  Customer Service Officer 
+**Position**:  Customer Service Officer 
 
 **Organization**: Standard Chartered Bank
 
