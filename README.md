@@ -20,7 +20,7 @@ To attain a position in a growth-oriented company where I can use my strong orga
 
 **Organization**: Standard Chartered Bank
 
-**Key Responsibilities & Achievements**: 
+* **Key Responsibilities & Achievements**: 
 1. Provided quality services to customer with intent to problems resolving.
    * Issuance of ATM cards to customers
 2. Prompt and instant account opening for customers 
@@ -33,8 +33,15 @@ To attain a position in a growth-oriented company where I can use my strong orga
 
 """
 __SQL__
-""" Cash Constant Evacuation from the Tellers.
+""" 
+Cash Constant Evacuation from the Tellers.
 Ensuring the tellers are properly balanced every day
 Checking and balancing of all transit account
-Every day cash balancing in the vault"""
+Every day cash balancing in the vault
+"""
+"""
+
+### Results
+
+Vlookup
 
