@@ -18,11 +18,11 @@ To attain a position in a growth-oriented company where I can use my strong orga
 **Organization**: Standard Chartered Bank
 
 **Key Responsibilities & Achievements**: 
-•	* Provided quality services to customer with intent to problems resolving.
-•	* Issuance of ATM cards to customers
-•	* Prompt and instant account opening for customers 
-•	*Booking of loans and TODs
-•	*Logging and prompt follow up to customers complains and ensuring resolutions
+* Provided quality services to customer with intent to problems resolving.
+* Issuance of ATM cards to customers
+* Prompt and instant account opening for customers 
+* Booking of loans and TODs
+* Logging and prompt follow up to customers complains and ensuring resolutions
 •	*Enrolling Customers on the banks E channels.
 •	*Logging and resolving other banks ATM Disputes.
 •	*Scanning, uploading of Customers mandate.
