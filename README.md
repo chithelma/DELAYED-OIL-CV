@@ -27,7 +27,7 @@ To attain a position in a growth-oriented company where I can use my strong orga
    * Booking of loans and TODs
 3.Logging and prompt follow up to customers complains and ensuring resolutions
    * Enrolling Customers on the banks E channels.
-4 Logging and resolving other banks ATM Disputes.
+4+ Logging and resolving other banks ATM Disputes.
    * Scanning, uploading of Customers mandate.
-5 Customer’s phone numbers
+5+ Customer’s phone numbers
 
