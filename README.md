@@ -13,8 +13,11 @@ To attain a position in a growth-oriented company where I can use my strong orga
 * 1997-2002	Kome International School (FLSC)
 
 **Work Experiences**
+
 **Year**: 2012
+
 *Position*:  Customer Service Officer 
+
 **Organization**: Standard Chartered Bank
 
 **Key Responsibilities & Achievements**: 
@@ -23,8 +26,8 @@ To attain a position in a growth-oriented company where I can use my strong orga
 * Prompt and instant account opening for customers 
 * Booking of loans and TODs
 * Logging and prompt follow up to customers complains and ensuring resolutions
-•	*Enrolling Customers on the banks E channels.
-•	*Logging and resolving other banks ATM Disputes.
-•	*Scanning, uploading of Customers mandate.
-•	 *Customer’s phone numbers
+* Enrolling Customers on the banks E channels.
+* Logging and resolving other banks ATM Disputes.
+* Scanning, uploading of Customers mandate.
+* Customer’s phone numbers
 
