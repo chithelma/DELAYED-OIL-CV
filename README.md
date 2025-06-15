@@ -33,9 +33,8 @@ To attain a position in a growth-oriented company where I can use my strong orga
 
 """
 __SQL__
-"""
-Cash Constant Evacuation from the Tellers.
+""" Cash Constant Evacuation from the Tellers.
 Ensuring the tellers are properly balanced every day
 Checking and balancing of all transit account
-Every day cash balancing in the vault
+Every day cash balancing in the vault"""
 
